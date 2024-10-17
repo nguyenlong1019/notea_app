@@ -1,0 +1,8 @@
+Đăng nhập, đăng ký, đăng xuất 
+Tạo ghi chú 
+Chỉnh sửa ghi chú 
+Tìm kiếm ghi chú 
+Xóa ghi chú 
+Tích hợp với lịch: người dùng có thể xem lịch ngay trên ứng dụng 
+Chia sẻ ghi chú 
+Hẹn nhắc nhở nếu có (nếu người dùng chọn ngày tháng năm, giờ nhắc nhở khi tạo hoặc chỉnh sửa note)
